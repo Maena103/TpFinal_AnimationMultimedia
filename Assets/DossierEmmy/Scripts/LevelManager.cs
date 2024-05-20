@@ -30,11 +30,6 @@ public class LevelManager : MonoBehaviour
         SceneManager.LoadScene(scene.ToString());
     }
 
-    public void LoadNewGame()
-    {
-        SceneManager.LoadScene(Scene.SceneAudrey.ToString());
-    }
-
     public void LoadMainMenu()
     {
         SceneManager.LoadScene(Scene.Accueil.ToString());
@@ -68,11 +63,8 @@ public class LevelManager : MonoBehaviour
 
     public enum Scene{
         Accueil,
-        SceneAudrey,
-        SceneEmmy,
-        SceneThomas,
-        SceneMegane,
-        Credits
+        Salle1,
+        Salle2
 
     }
 }
