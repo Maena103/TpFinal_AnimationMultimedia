@@ -108,7 +108,7 @@ Transform:
   m_Children:
   - {fileID: 4917379247764244733}
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &14531118888019
 MonoBehaviour:
@@ -119,11 +119,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 4205725551051060890}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a22713598bc205847aa8cac2cd3cf3c6, type: 3}
+  m_Script: {fileID: 11500000, guid: f3447908e4136764a9a417f923c4cb40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _loaderCanvas: {fileID: 6242037792251021849}
-  _barreProgression: {fileID: 7206401688817050506}
+  _loaderCanvas: {fileID: 0}
+  _barreProgression: {fileID: 0}
 --- !u!1 &5315978481474520550
 GameObject:
   m_ObjectHideFlags: 0
