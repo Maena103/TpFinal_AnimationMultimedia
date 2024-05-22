@@ -123,11 +123,59 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!108 &93575126 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8486470862455815857}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &96106321 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 4689221907502427780}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &226686713 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 3866266314394759241}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &248043649 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8661425208084202111}
+  m_PrefabAsset: {fileID: 0}
 --- !u!108 &320379818 stripped
 Light:
   m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
     type: 3}
   m_PrefabInstance: {fileID: 6488683455628941156}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &356840940 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 7693986106491346653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &467943454 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 4689221907502427780}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &471786175 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8486470862455815857}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &573149798 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 2057908456835546413}
   m_PrefabAsset: {fileID: 0}
 --- !u!95 &581267921
 Animator:
@@ -150,11 +198,59 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &630210461 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5122439724219330734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &705660501 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 7493925392327726059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &731642143 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5491790216473778771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &732602379 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 4274984985353441668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &805802051 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5039056566587628631}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &874721004 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
     type: 3}
   m_PrefabInstance: {fileID: 8154737444551148684}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &885574272 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 2044277469754856793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &927635313 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5039056566587628631}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &980614857 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5239497951677342601}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1086577651
 GameObject:
@@ -242,6 +338,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!108 &1122486431 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 7493925392327726059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &1232009169 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 2057908456835546413}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &1284073104 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 3866266314394759241}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1414053818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -330,6 +444,18 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1414053818}
   m_PrefabAsset: {fileID: 0}
+--- !u!108 &1475686092 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8661425208084202111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1606314711 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 522698979429742050}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1657408510
 GameObject:
   m_ObjectHideFlags: 0
@@ -384,6 +510,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
     type: 3}
   m_PrefabInstance: {fileID: 6488683455628941156}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &1722315123 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 522698979429742050}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1735920924
 GameObject:
@@ -448,6 +580,54 @@ MonoBehaviour:
   m_MinRegionArea: 2
   m_NavMeshData: {fileID: 23800000, guid: 25bcdcd84e278d744a865116d2348a2b, type: 2}
   m_BuildHeightMesh: 0
+--- !u!108 &1814359748 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5491790216473778771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &1889799595 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5122439724219330734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1979196541 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8906061299726117356}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2013540201 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 4274984985353441668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2017308047 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 5239497951677342601}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &2068286860 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 8906061299726117356}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &2107514684 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 1772668592406400152, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 2044277469754856793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134038142 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+    type: 3}
+  m_PrefabInstance: {fileID: 7693986106491346653}
+  m_PrefabAsset: {fileID: 0}
 --- !u!212 &17986969022930924
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -899,7 +1079,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 522698979429742056}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 522698979429742055}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &522698979429742051 stripped
 Transform:
@@ -907,6 +1095,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 522698979429742050}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &522698979429742055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606314711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 2
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsEmission: 1
+--- !u!114 &522698979429742056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606314711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1722315123}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsIntensity: 1
 --- !u!1 &533461883371489566
 GameObject:
   m_ObjectHideFlags: 0
@@ -1965,7 +2194,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2044277469754856799}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2044277469754856798}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &2044277469754856794 stripped
 Transform:
@@ -1973,6 +2210,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2044277469754856793}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2044277469754856798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885574272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &2044277469754856799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885574272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 2107514684}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!1001 &2057908456835546413
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2044,7 +2322,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2057908456835546419}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2057908456835546418}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &2057908456835546414 stripped
 Transform:
@@ -2052,6 +2338,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2057908456835546413}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2057908456835546418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573149798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &2057908456835546419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573149798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1232009169}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!4 &2075312592246415420
 Transform:
   m_ObjectHideFlags: 0
@@ -3570,7 +3897,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3866266314394759247}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3866266314394759246}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &3866266314394759242 stripped
 Transform:
@@ -3578,6 +3913,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3866266314394759241}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &3866266314394759246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226686713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 3
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsEmission: 1
+--- !u!114 &3866266314394759247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226686713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1284073104}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsIntensity: 1
 --- !u!23 &3951702202271295147
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4081,7 +4457,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4274984985353441674}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4274984985353441673}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &4274984985353441669 stripped
 Transform:
@@ -4089,6 +4473,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4274984985353441668}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4274984985353441673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013540201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &4274984985353441674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013540201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 732602379}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!1 &4426912589935627479
 GameObject:
   m_ObjectHideFlags: 0
@@ -4385,7 +4810,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4689221907502427786}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4689221907502427785}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &4689221907502427781 stripped
 Transform:
@@ -4393,6 +4826,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4689221907502427780}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4689221907502427785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467943454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 3
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsEmission: 1
+--- !u!114 &4689221907502427786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467943454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 96106321}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsIntensity: 1
 --- !u!1 &4717145116488809921
 GameObject:
   m_ObjectHideFlags: 0
@@ -4693,7 +5167,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5039056566587628637}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5039056566587628636}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &5039056566587628632 stripped
 Transform:
@@ -4701,6 +5183,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5039056566587628631}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5039056566587628636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805802051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &5039056566587628637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805802051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 927635313}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!33 &5040084327835692268
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -4893,7 +5416,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5122439724219330740}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5122439724219330739}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &5122439724219330735 stripped
 Transform:
@@ -4901,6 +5432,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5122439724219330734}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5122439724219330739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630210461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 2
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsEmission: 1
+--- !u!114 &5122439724219330740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630210461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1889799595}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsIntensity: 1
 --- !u!1 &5133562916760664342
 GameObject:
   m_ObjectHideFlags: 0
@@ -5051,7 +5623,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5239497951677342607}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5239497951677342606}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &5239497951677342602 stripped
 Transform:
@@ -5059,6 +5639,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5239497951677342601}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5239497951677342606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017308047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 5
+  phase: 5
+  frequency: 5
+  noiseFrequency: 5
+  affectsEmission: 1
+--- !u!114 &5239497951677342607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017308047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 980614857}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 5
+  frequency: 5
+  noiseFrequency: 5
+  affectsIntensity: 1
 --- !u!4 &5258980709872930280
 Transform:
   m_ObjectHideFlags: 0
@@ -5356,7 +5977,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5491790216473778777}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5491790216473778776}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &5491790216473778772 stripped
 Transform:
@@ -5364,6 +5993,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5491790216473778771}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5491790216473778776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731642143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &5491790216473778777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731642143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1814359748}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!33 &5494433251818370320
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6866,7 +7536,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7493925392327726065}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7493925392327726064}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &7493925392327726060 stripped
 Transform:
@@ -6874,6 +7552,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7493925392327726059}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &7493925392327726064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 705660501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 5
+  phase: 5
+  frequency: 5
+  noiseFrequency: 5
+  affectsEmission: 1
+--- !u!114 &7493925392327726065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 705660501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1122486431}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 5
+  frequency: 5
+  noiseFrequency: 5
+  affectsIntensity: 1
 --- !u!4 &7552465309480251290
 Transform:
   m_ObjectHideFlags: 0
@@ -7009,7 +7728,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7693986106491346659}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7693986106491346658}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &7693986106491346654 stripped
 Transform:
@@ -7017,6 +7744,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7693986106491346653}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &7693986106491346658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134038142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &7693986106491346659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134038142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 356840940}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!23 &7745684725832519595
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7765,7 +8533,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8486470862455815863}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8486470862455815862}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &8486470862455815858 stripped
 Transform:
@@ -7773,6 +8549,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8486470862455815857}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8486470862455815862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471786175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 3
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsEmission: 1
+--- !u!114 &8486470862455815863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471786175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 93575126}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 3
+  frequency: 3
+  noiseFrequency: 3
+  affectsIntensity: 1
 --- !u!1 &8546541235264631788
 GameObject:
   m_ObjectHideFlags: 0
@@ -7936,7 +8753,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8661425208084202117}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8661425208084202116}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &8661425208084202112 stripped
 Transform:
@@ -7944,6 +8769,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8661425208084202111}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8661425208084202116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 248043649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 2
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsEmission: 1
+--- !u!114 &8661425208084202117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 248043649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 1475686092}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 2
+  frequency: 2
+  noiseFrequency: 2
+  affectsIntensity: 1
 --- !u!4 &8736803888321763336
 Transform:
   m_ObjectHideFlags: 0
@@ -8099,7 +8965,15 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8906061299726117362}
+    - targetCorrespondingSourceObject: {fileID: 5085878035659640887, guid: 4f5b46dff033a4348bff3fd0b1c64264,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8906061299726117361}
   m_SourcePrefab: {fileID: 100100000, guid: 4f5b46dff033a4348bff3fd0b1c64264, type: 3}
 --- !u!4 &8906061299726117357 stripped
 Transform:
@@ -8107,6 +8981,47 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8906061299726117356}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8906061299726117361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979196541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096966a056f007142b6fd4ae594caa61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsEmission: 1
+--- !u!114 &8906061299726117362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979196541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLight: {fileID: 2068286860}
+  colorChannel: 0
+  waveFunction: 5
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
+  affectsIntensity: 1
 --- !u!1 &8907387897637601089
 GameObject:
   m_ObjectHideFlags: 0

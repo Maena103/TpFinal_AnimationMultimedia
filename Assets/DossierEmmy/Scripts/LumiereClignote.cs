@@ -24,11 +24,11 @@ public class LightColorAnimation : MonoBehaviour
 
     public enColorChannels colorChannel = enColorChannels.all;
     public enWaveFunctions waveFunction = enWaveFunctions.sinus;
-    public float offset = 0.0f; // Offset constant
-    public float amplitude = 1.0f; // Amplitude de l'onde
-    public float phase = 0.0f; // Point de départ à l'intérieur du cycle de l'onde
-    public float frequency = 0.5f; // Fréquence du cycle par seconde
-    public float noiseFrequency = 0.5f; // Fréquence du bruit, valeur inférieure pour ralentir
+    public float offset = 0.8f; // Offset constant
+    public float amplitude = 0.8f; // Amplitude de l'onde
+    public float phase = 4.0f; // Point de départ à l'intérieur du cycle de l'onde
+    public float frequency = 4.0f; // Fréquence du cycle par seconde
+    public float noiseFrequency = 4.0f; // Fréquence du bruit, valeur inférieure pour ralentir
     public bool affectsIntensity = true;
 
     // Garde une copie des valeurs originales
