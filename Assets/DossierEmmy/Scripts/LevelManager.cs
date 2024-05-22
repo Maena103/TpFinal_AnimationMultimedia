@@ -64,7 +64,8 @@ public class LevelManager : MonoBehaviour
     public enum Scene{
         Accueil,
         Salle1,
-        Salle2
+        Salle2,
+        SceneMort
 
     }
 }
