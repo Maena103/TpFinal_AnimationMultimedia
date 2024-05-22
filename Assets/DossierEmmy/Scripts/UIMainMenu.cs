@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class UIMainMenu : MonoBehaviour
 {
-    [SerializeField] Button _newGame;
+    
     [SerializeField] Button _quiteGame;
 
     private LevelManager _levelManager;
@@ -13,11 +13,11 @@ public class UIMainMenu : MonoBehaviour
     void Start()
     {
         _levelManager = LevelManager.Instance;
-        _newGame.onClick.AddListener(StartNewGame);
+      
         _quiteGame.onClick.AddListener(QuiteGame);
     }
 
-    private void StartNewGame()
+  private void OnTriggerEnter(Collider other)
     {
         //_levelManager.LoadNewGame();
         _levelManager.LoadAsyncScene(LevelManager.Scene.Salle1);
