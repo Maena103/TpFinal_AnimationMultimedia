@@ -35,7 +35,7 @@ public class Agent : MonoBehaviour
     }
 
      private void OnTriggerEnter(Collider other){
-  Debug.Log("Agent");
+ 
         // Debug pour savoir la cause de la mort 
       
 
@@ -49,7 +49,7 @@ public class Agent : MonoBehaviour
              //ce qui permet de changer l'interface final dépendement si il y a une victoire ou une défaite
           //  _infosDuNiveau._victoirePartie = false;
             //_infosDuNiveau._defaitePartie = true;
-            Debug.Log("Allo");
+           
         }
    
   }
