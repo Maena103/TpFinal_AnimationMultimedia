@@ -7,6 +7,7 @@ public class Agent : MonoBehaviour
 {
     [SerializeField] private GameObject _joueur;
     [SerializeField] private NavMeshAgent _agent;
+  private LevelManager _levelManager;
 
     // Position du joueur que l'agent doit suivre
     private Vector3 _positionJoueur;
@@ -18,7 +19,10 @@ public class Agent : MonoBehaviour
     [SerializeField] private InfosJoueurs _infosJoueurs;
     [SerializeField] private InfosNiveau _infosDuNiveau;
 
-    
+      void Start()
+    {
+        _levelManager = LevelManager.Instance;
+    }
     void Update()
     {
         BougerAgent();
@@ -32,11 +36,12 @@ public class Agent : MonoBehaviour
 
      private void OnCollisionEnter(Collision other){
         // Debug pour savoir la cause de la mort 
-        //Debug.Log("Agent");
+        Debug.Log("Agent");
 
         if(other.gameObject.tag == "Player"){
              //Pour indiquer que le joueur est mort à cause de l'agent sois le bateau sur l'interface final de défaite
             _infosJoueurs._causeMort = ("Bateau");
+            _levelManager.LoadAsyncScene(LevelManager.Scene.SceneMort);
              //Pour effectuer le changement de scene
          //   _gestionScenes.SceneSuivante();
              // Indique s'il y a une défaite ou une victoire dans se cas, c'est une défaite et vient changer la valeur de la booléen dans infosNiveau 
