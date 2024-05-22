@@ -3595,6 +3595,7 @@ GameObject:
   - component: {fileID: 581267921}
   - component: {fileID: 4228292133476388329}
   - component: {fileID: 4228292133476388328}
+  - component: {fileID: 4228292133476388330}
   m_Layer: 0
   m_Name: monster_scavenger_Skin_Gray
   m_TagString: Untagged
@@ -4392,6 +4393,29 @@ MonoBehaviour:
   _agent: {fileID: 4228292133476388328}
   _infosJoueurs: {fileID: 11400000, guid: 062d07dd0f30f5242bf488117bbef54f, type: 2}
   _infosDuNiveau: {fileID: 11400000, guid: 1bd7c52d2d70f3c40924503c4b74f415, type: 2}
+--- !u!136 &4228292133476388330
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3595625014197491549}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8
+  m_Height: 3
+  m_Direction: 1
+  m_Center: {x: 0, y: 1, z: 0}
 --- !u!23 &4271055276408657173
 MeshRenderer:
   m_ObjectHideFlags: 0

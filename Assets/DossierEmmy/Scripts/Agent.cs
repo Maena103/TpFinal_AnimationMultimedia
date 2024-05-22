@@ -24,7 +24,7 @@ public class Agent : MonoBehaviour
         _levelManager = LevelManager.Instance;
     }
     void Update()
-    {Debug.Log("Agent");
+    {
         BougerAgent();
     }
 
@@ -34,9 +34,10 @@ public class Agent : MonoBehaviour
         _agent.SetDestination(_positionJoueur);
     }
 
-     private void OnCollisionEnter(Collision other){
+     private void OnTriggerEnter(Collider other){
+  Debug.Log("Agent");
         // Debug pour savoir la cause de la mort 
-        Debug.Log("Agent");
+      
 
         if(other.gameObject.tag == "Player"){
              //Pour indiquer que le joueur est mort à cause de l'agent sois le bateau sur l'interface final de défaite
