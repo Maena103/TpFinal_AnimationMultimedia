@@ -41,7 +41,7 @@ public class Agent : MonoBehaviour
 
         if(other.gameObject.tag == "Player"){
              //Pour indiquer que le joueur est mort à cause de l'agent sois le bateau sur l'interface final de défaite
-            _infosJoueurs._causeMort = ("Bateau");
+           // _infosJoueurs._causeMort = ("Bateau");
             _levelManager.LoadAsyncScene(LevelManager.Scene.SceneMort);
              //Pour effectuer le changement de scene
          //   _gestionScenes.SceneSuivante();
