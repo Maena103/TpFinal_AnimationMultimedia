@@ -28,7 +28,7 @@ public class InfosNiveau : ScriptableObject
 
 
     //Variable qui dit si on gagne la partie
-   // public bool _defaitePartie;
+public bool _defaitePartie;
     //public bool _victoirePartie;
 
 
