@@ -6059,7 +6059,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1684434930}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6375c3db679d31b419a577491b1425d3, type: 3}
   m_Name: 
@@ -6067,10 +6067,11 @@ MonoBehaviour:
   targetLight: {fileID: 320379818}
   colorChannel: 0
   waveFunction: 5
-  offset: 0.5
-  amplitude: 0.5
-  phase: 1
-  frequency: 0
+  offset: 0.8
+  amplitude: 0.8
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
   affectsIntensity: 1
 --- !u!114 &6488683455628941162
 MonoBehaviour:
@@ -6087,10 +6088,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 1
-  phase: 0
-  frequency: 0.5
-  noiseFrequency: 0.001
+  amplitude: 4
+  phase: 4
+  frequency: 4
+  noiseFrequency: 4
   affectsEmission: 1
 --- !u!23 &6548603672831662604
 MeshRenderer:

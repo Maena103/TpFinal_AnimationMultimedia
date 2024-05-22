@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public enum enColorchannels
+public enum enColorChannels
 {
     all = 0,
     red = 1,
@@ -20,38 +20,39 @@ public enum enWaveFunctions
 
 public class LightColorAnimation : MonoBehaviour
 {
-    public Light targetLight; // Add this line to allow light assignment via the inspector
+    public Light targetLight; // Permet d'assigner la lumière via l'inspecteur
 
-    public enColorchannels colorChannel = enColorchannels.all;
+    public enColorChannels colorChannel = enColorChannels.all;
     public enWaveFunctions waveFunction = enWaveFunctions.sinus;
-    public float offset = 0.0f; // constant offset
-    public float amplitude = 1.0f; // amplitude of the wave
-    public float phase = 0.0f; // start point inside on wave cycle
-    public float frequency = 0.5f; // cycle frequency per second
+    public float offset = 0.0f; // Offset constant
+    public float amplitude = 1.0f; // Amplitude de l'onde
+    public float phase = 0.0f; // Point de départ à l'intérieur du cycle de l'onde
+    public float frequency = 0.5f; // Fréquence du cycle par seconde
+    public float noiseFrequency = 0.5f; // Fréquence du bruit, valeur inférieure pour ralentir
     public bool affectsIntensity = true;
 
-    // Keep a copy of the original values
+    // Garde une copie des valeurs originales
     private Color originalColor;
     private float originalIntensity;
 
-    // Use this for initialization
+    // Utilisé pour l'initialisation
     void Start()
     {
         if (targetLight == null)
         {
             targetLight = GetComponent<Light>();
         }
-        
+
         originalColor = targetLight.color;
         originalIntensity = targetLight.intensity;
     }
 
-    // Update is called once per frame
+    // Appelé une fois par frame
     void Update()
     {
         if (targetLight == null)
         {
-            Debug.LogWarning("Target Light is not assigned!");
+            Debug.LogWarning("La lumière cible n'est pas assignée !");
             return;
         }
 
@@ -63,15 +64,15 @@ public class LightColorAnimation : MonoBehaviour
         Color o = originalColor;
         Color c = targetLight.color;
 
-        if (colorChannel == enColorchannels.all)
+        if (colorChannel == enColorChannels.all)
         {
             targetLight.color = originalColor * EvalWave();
         }
-        else if (colorChannel == enColorchannels.red)
+        else if (colorChannel == enColorChannels.red)
         {
             targetLight.color = new Color(o.r * EvalWave(), c.g, c.b, c.a);
         }
-        else if (colorChannel == enColorchannels.green)
+        else if (colorChannel == enColorChannels.green)
         {
             targetLight.color = new Color(c.r, o.g * EvalWave(), c.b, c.a);
         }
@@ -81,11 +82,12 @@ public class LightColorAnimation : MonoBehaviour
         }
     }
 
+    // Évalue la forme d'onde
     private float EvalWave()
     {
         float x = (Time.time + phase) * frequency;
         float y;
-        x = x - Mathf.Floor(x); // normalized value (0..1)
+        x = x - Mathf.Floor(x); // Valeur normalisée (0..1)
         switch (waveFunction)
         {
             case enWaveFunctions.sinus:
@@ -104,12 +106,20 @@ public class LightColorAnimation : MonoBehaviour
                 y = 1.0f - x;
                 break;
             case enWaveFunctions.noise:
-                y = 1f - (Random.value * 2f);
+                y = EvalNoise();
                 break;
             default:
                 y = 1.0f;
                 break;
         }
         return (y * amplitude) + offset;
+    }
+
+    // Évalue le bruit
+    private float EvalNoise()
+    {
+        float x = (Time.time + phase) * noiseFrequency;
+        float y = Mathf.PerlinNoise(x, 0f);
+        return y * 2f - 1f; // Mise à l'échelle pour la plage [-1, 1]
     }
 }

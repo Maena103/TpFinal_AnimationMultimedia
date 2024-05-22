@@ -134,12 +134,11 @@ public class MaterialColorAnimation : MonoBehaviour
         return (y * amplitude) + offset;
     }
 
-    private float EvalNoise()
-    {
-        float x = (Time.time + phase) * noiseFrequency;
-        //float y = Mathf.Sin(x * Mathf.PI * 2);
-         float y = Mathf.PerlinNoise(x, 0f);
-         return y;
-        //return y * 2f - 1f;
-    }
+   private float EvalNoise()
+{
+    float x = (Time.time + phase) * noiseFrequency;
+    float y = Mathf.PerlinNoise(x, 0f);
+    return y * 2f - 1f; // Mise à l'échelle pour la plage [-1, 1]
+}
+
 }
