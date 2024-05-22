@@ -24,7 +24,7 @@ public class Agent : MonoBehaviour
         _levelManager = LevelManager.Instance;
     }
     void Update()
-    {
+    {Debug.Log("Agent");
         BougerAgent();
     }
 
