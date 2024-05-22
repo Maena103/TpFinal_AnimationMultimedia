@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-
+/*
 namespace UnityStandardAssets.ImageEffects
 {
     [ExecuteInEditMode]
@@ -82,7 +82,7 @@ namespace UnityStandardAssets.ImageEffects
             rgbDepthChannelTex.wrapMode = TextureWrapMode.Clamp;
             zCurveTex.wrapMode = TextureWrapMode.Clamp;
 
-            if (!isSupported)
+        /*    if (!isSupported)
                 ReportAutoDisable ();
             return isSupported;
         }
@@ -179,3 +179,4 @@ namespace UnityStandardAssets.ImageEffects
         }
     }
 }
+*/
