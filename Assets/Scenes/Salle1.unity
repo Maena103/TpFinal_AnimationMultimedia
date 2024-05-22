@@ -1116,10 +1116,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 2
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  amplitude: 4.5
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsEmission: 1
 --- !u!114 &522698979429742056
 MonoBehaviour:
@@ -1138,9 +1138,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsIntensity: 1
 --- !u!1 &533461883371489566
 GameObject:
@@ -3952,10 +3952,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 3
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  amplitude: 5.5
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsEmission: 1
 --- !u!114 &3866266314394759247
 MonoBehaviour:
@@ -3974,9 +3974,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsIntensity: 1
 --- !u!23 &3951702202271295147
 MeshRenderer:
@@ -4877,10 +4877,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 3
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  amplitude: 5.5
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsEmission: 1
 --- !u!114 &4689221907502427786
 MonoBehaviour:
@@ -4899,9 +4899,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsIntensity: 1
 --- !u!1 &4717145116488809921
 GameObject:
@@ -5495,10 +5495,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 2
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  amplitude: 4.5
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsEmission: 1
 --- !u!114 &5122439724219330740
 MonoBehaviour:
@@ -5517,9 +5517,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsIntensity: 1
 --- !u!1 &5133562916760664342
 GameObject:
@@ -8643,10 +8643,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 3
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  amplitude: 5.5
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsEmission: 1
 --- !u!114 &8486470862455815863
 MonoBehaviour:
@@ -8665,9 +8665,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 3
-  frequency: 3
-  noiseFrequency: 3
+  phase: 5.5
+  frequency: 5.5
+  noiseFrequency: 5.5
   affectsIntensity: 1
 --- !u!1 &8546541235264631788
 GameObject:
@@ -8869,10 +8869,10 @@ MonoBehaviour:
   colorChannel: 0
   waveFunction: 5
   offset: 0
-  amplitude: 2
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  amplitude: 4.5
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsEmission: 1
 --- !u!114 &8661425208084202117
 MonoBehaviour:
@@ -8891,9 +8891,9 @@ MonoBehaviour:
   waveFunction: 5
   offset: 0.8
   amplitude: 0.8
-  phase: 2
-  frequency: 2
-  noiseFrequency: 2
+  phase: 4.5
+  frequency: 4.5
+  noiseFrequency: 4.5
   affectsIntensity: 1
 --- !u!4 &8736803888321763336
 Transform:
