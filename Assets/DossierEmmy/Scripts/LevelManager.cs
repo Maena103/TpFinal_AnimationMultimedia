@@ -65,6 +65,7 @@ public class LevelManager : MonoBehaviour
         Accueil,
         Salle1,
         Salle2,
+        Salle3,
         SceneMort
 
     }
