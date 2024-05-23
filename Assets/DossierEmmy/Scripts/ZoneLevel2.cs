@@ -5,7 +5,7 @@ using UnityEngine;
 public class ZoneLevel2 : MonoBehaviour
 {
     private LevelManager _levelManager;
-
+  [SerializeField] private AudioSource _sonTeleportation;
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +18,8 @@ public class ZoneLevel2 : MonoBehaviour
  private void OnTriggerEnter(Collider other)
 
  { 
-    Debug.Log("allo: ");
+    
+  _sonTeleportation.Play();
     _levelManager.LoadAsyncScene(LevelManager.Scene.Salle2);
  }
 }
